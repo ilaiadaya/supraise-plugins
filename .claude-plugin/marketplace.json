@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "supraise",
+  "owner": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "metadata": {
+    "description": "Shopping and gifts for Claude: search every major retailer in one place, compare prices, and send gifts. You always review and pay on Supraise.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "shopping",
+      "source": "./shopping",
+      "description": "Shop online from Claude: search and compare products and prices across Amazon, Walmart, Target, Best Buy and more in one place, see photos, ratings and every seller's price, then review and pay on Supraise.",
+      "category": "shopping",
+      "keywords": [
+        "shopping",
+        "shop",
+        "buy",
+        "products",
+        "price comparison",
+        "amazon",
+        "walmart",
+        "target",
+        "deals"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "gift-finder",
+      "source": "./gift-finder",
+      "description": "Find the right gift for anyone: describe the person and budget and get real products from major retailers, then send it once or set up a recurring surprise. You review and pay on Supraise.",
+      "category": "shopping",
+      "keywords": [
+        "gifts",
+        "gift ideas",
+        "presents",
+        "birthday",
+        "shopping",
+        "surprise",
+        "gift finder"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    }
+  ]
+}

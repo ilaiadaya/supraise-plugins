@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "shopping",
+  "displayName": "Shopping",
+  "version": "1.0.0",
+  "description": "Shop online from Claude: search and compare products and prices across Amazon, Walmart, Target, Best Buy and more in one place, see photos, ratings and every seller's price, then review and pay on Supraise.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "shopping",
+    "shop",
+    "buy",
+    "products",
+    "price comparison",
+    "amazon",
+    "walmart",
+    "target",
+    "deals"
+  ]
+}

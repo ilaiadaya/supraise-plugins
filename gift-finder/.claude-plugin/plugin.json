@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "gift-finder",
+  "displayName": "Gift Finder",
+  "version": "1.0.0",
+  "description": "Find the right gift for anyone: describe the person and budget and get real products from major retailers, then send it once or set up a recurring surprise. You review and pay on Supraise.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "gifts",
+    "gift ideas",
+    "presents",
+    "birthday",
+    "shopping",
+    "surprise",
+    "gift finder"
+  ]
+}
