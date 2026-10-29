@@ -4,16 +4,16 @@ Shopping and gifts for Claude: search Amazon, Walmart, Target, Best Buy and more
 
 | Plugin | What it does |
 |---|---|
-| [Shopping](./shopping) | Shop online from Claude: search and compare products and prices across major retailers in one place, then review and pay on Supraise. |
-| [Gift Finder](./gift-finder) | Find the right gift for anyone and send it once or as a recurring surprise. |
+| [Shopping by Supraise](./supraise-shopping) | Shop online from Claude: search and compare products and prices across major retailers in one place, then review and pay on Supraise. |
+| [Gift Finder by Supraise](./supraise-gift-finder) | Find the right gift for anyone and send it once or as a recurring surprise. |
 
 Both plugins use the same Supraise server (`https://supraise.com/api/mcp`), so installing both gives one set of tools.
 
 ## Install
 ```
 /plugin marketplace add ilaiadaya/supraise-plugins
-/plugin install shopping@supraise
-/plugin install gift-finder@supraise
+/plugin install supraise-shopping@supraise
+/plugin install supraise-gift-finder@supraise
 ```
 
 ## Links

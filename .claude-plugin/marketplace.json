@@ -11,8 +11,8 @@
   },
   "plugins": [
     {
-      "name": "shopping",
-      "source": "./shopping",
+      "name": "supraise-shopping",
+      "source": "./supraise-shopping",
       "description": "Shop online from Claude: search and compare products and prices across Amazon, Walmart, Target, Best Buy and more in one place, see photos, ratings and every seller's price, then review and pay on Supraise.",
       "category": "shopping",
       "keywords": [
@@ -30,8 +30,8 @@
       "license": "MIT"
     },
     {
-      "name": "gift-finder",
-      "source": "./gift-finder",
+      "name": "supraise-gift-finder",
+      "source": "./supraise-gift-finder",
       "description": "Find the right gift for anyone: describe the person and budget and get real products from major retailers, then send it once or set up a recurring surprise. You review and pay on Supraise.",
       "category": "shopping",
       "keywords": [

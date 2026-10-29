@@ -1,19 +1,19 @@
-# Shopping
+# Gift Finder by Supraise
 
-Shop online from Claude: search and compare products and prices across Amazon, Walmart, Target, Best Buy and more in one place, see photos, ratings and every seller's price, then review and pay on Supraise.
+Find the right gift for anyone: describe the person and budget and get real products from major retailers, then send it once or set up a recurring surprise. You review and pay on Supraise.
 
 ## What it does
-Ask for anything, like "a burr coffee grinder under $60" or "the cheapest JBL Vibe Buds 2". Claude searches every supported retailer in one go and shows product cards with photos, prices per seller, ratings and a short summary. Each card opens the product's page on Supraise, where you pick the size or colour and pay by card, Apple Pay, Google Pay or your gift wallet. Nothing is bought from inside Claude: you always review and pay on Supraise.
+Tell Claude who the gift is for, what they like and how much to spend. It searches Amazon, Walmart, Target and more and suggests a few real products with photos, prices and a reason each one suits them. Send one to their address with a checkout you review and pay on Supraise, or set up a gift on repeat (monthly, quarterly, yearly) or a one-time present on a date. Plans start paused and only run after you turn them on at supraise.com.
 
 ## Install
 In Claude Code:
 ```
 /plugin marketplace add ilaiadaya/supraise-plugins
-/plugin install shopping@supraise
+/plugin install supraise-gift-finder@supraise
 ```
 
 ## Connecting
-- Shopping talks to the Supraise server at `https://supraise.com/api/mcp` (Streamable HTTP).
+- Gift Finder talks to the Supraise server at `https://supraise.com/api/mcp` (Streamable HTTP).
 - Searching works without an account. Carts, checkouts, orders and gift plans ask you to sign in to Supraise (OAuth with PKCE), then you come straight back to the chat.
 - Developers can also use the same features through the [Supraise API](https://supraise.com/developers).
 
@@ -30,9 +30,9 @@ In Claude Code:
 | `create_surprise_plan` | Saves a gift plan, paused until you turn it on at supraise.com. |
 
 ## Example prompts
-- "Find me a burr coffee grinder under $60"
-- "Compare prices for JBL Vibe Buds 2 and add the cheapest to my cart"
-- "Show my recent orders"
+- "A gift for my dad who loves grilling, about $40"
+- "Housewarming present for a plant person under $30"
+- "Set up a monthly $25 surprise for me, I like coffee and hiking"
 
 ## Data and privacy
 Supraise receives only what Claude sends to these tools for your request (searches, carts, addresses you ask it to use). It never reads your other conversations. The plugin has no hooks or local scripts.

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
-  "name": "shopping",
-  "displayName": "Shopping",
+  "name": "supraise-shopping",
+  "displayName": "Shopping by Supraise",
   "version": "1.0.0",
   "description": "Shop online from Claude: search and compare products and prices across Amazon, Walmart, Target, Best Buy and more in one place, see photos, ratings and every seller's price, then review and pay on Supraise.",
   "author": {

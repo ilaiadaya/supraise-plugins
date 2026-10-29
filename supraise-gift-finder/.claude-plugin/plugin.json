@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
-  "name": "gift-finder",
-  "displayName": "Gift Finder",
+  "name": "supraise-gift-finder",
+  "displayName": "Gift Finder by Supraise",
   "version": "1.0.0",
   "description": "Find the right gift for anyone: describe the person and budget and get real products from major retailers, then send it once or set up a recurring surprise. You review and pay on Supraise.",
   "author": {
