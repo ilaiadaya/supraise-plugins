@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "supraise-gifts",
+  "displayName": "Gift Ideas",
+  "version": "1.0.0",
+  "description": "Gift ideas for anyone from real products at Amazon, Walmart, Target and more; send one to their address or set up a gift on repeat.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "gift ideas",
+    "gifts",
+    "gift finder",
+    "birthday gift",
+    "christmas gifts",
+    "present ideas",
+    "anniversary gift",
+    "gift for dad"
+  ]
+}

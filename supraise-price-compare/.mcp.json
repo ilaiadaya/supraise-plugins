@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supraise": {
+      "type": "http",
+      "url": "https://supraise.com/api/claude/price-compare/mcp"
+    }
+  }
+}

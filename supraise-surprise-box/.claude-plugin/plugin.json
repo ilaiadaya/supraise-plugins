@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "supraise-surprise-box",
+  "displayName": "Surprise Box",
+  "version": "1.0.0",
+  "description": "A surprise box for yourself or someone else: a gift chosen from their interests, once or every month, quarter or year.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "surprise box",
+    "mystery box",
+    "subscription box",
+    "monthly gift",
+    "gift subscription",
+    "surprise gift",
+    "treat yourself",
+    "recurring gift"
+  ]
+}

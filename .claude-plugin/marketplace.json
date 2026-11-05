@@ -45,6 +45,132 @@
       ],
       "homepage": "https://supraise.com/developers",
       "license": "MIT"
+    },
+    {
+      "name": "supraise-gifts",
+      "source": "./supraise-gifts",
+      "description": "Gift ideas for anyone from real products at Amazon, Walmart, Target and more; send one to their address or set up a gift on repeat.",
+      "category": "shopping",
+      "keywords": [
+        "gift ideas",
+        "gifts",
+        "gift finder",
+        "birthday gift",
+        "christmas gifts",
+        "present ideas",
+        "anniversary gift",
+        "gift for dad"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-personal-shopper",
+      "source": "./supraise-personal-shopper",
+      "description": "A personal shopper across Amazon, Walmart, Target, Best Buy and more: find the right product, compare sellers and check out on Supraise.",
+      "category": "shopping",
+      "keywords": [
+        "personal shopper",
+        "shopping assistant",
+        "shopping",
+        "buy",
+        "product finder",
+        "best product",
+        "compare",
+        "cart"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-send-gift",
+      "source": "./supraise-send-gift",
+      "description": "Send a real gift from Amazon, Walmart, Target and more to anyone's address: pick it in chat, pay on Supraise, Supraise orders it.",
+      "category": "shopping",
+      "keywords": [
+        "send a gift",
+        "send gifts",
+        "gift delivery",
+        "ship a gift",
+        "gift to address",
+        "surprise someone",
+        "care package",
+        "thank you gift"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-surprise-box",
+      "source": "./supraise-surprise-box",
+      "description": "A surprise box for yourself or someone else: a gift chosen from their interests, once or every month, quarter or year.",
+      "category": "shopping",
+      "keywords": [
+        "surprise box",
+        "mystery box",
+        "subscription box",
+        "monthly gift",
+        "gift subscription",
+        "surprise gift",
+        "treat yourself",
+        "recurring gift"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-price-compare",
+      "source": "./supraise-price-compare",
+      "description": "Compare a product's price across Amazon, Walmart, Target, Best Buy and more in one search, and see which seller is cheapest.",
+      "category": "shopping",
+      "keywords": [
+        "price compare",
+        "price comparison",
+        "compare prices",
+        "cheapest",
+        "best price",
+        "deal finder",
+        "price check",
+        "where to buy"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-shop",
+      "source": "./supraise-shop",
+      "description": "Shop Amazon, Walmart, Target, Best Buy and more in one search; buy on Supraise and send gifts once or on repeat.",
+      "category": "shopping",
+      "keywords": [
+        "shop",
+        "shopping",
+        "online shopping",
+        "buy online",
+        "amazon",
+        "walmart",
+        "target",
+        "best buy"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
+    },
+    {
+      "name": "supraise-wishlist",
+      "source": "./supraise-wishlist",
+      "description": "Build a wishlist of real products from Amazon, Walmart, Target and more, and share one link so friends buy the right gift without doubling up.",
+      "category": "shopping",
+      "keywords": [
+        "wishlist",
+        "wish list",
+        "gift list",
+        "birthday wishlist",
+        "christmas list",
+        "registry",
+        "gift registry",
+        "wedding registry"
+      ],
+      "homepage": "https://supraise.com/developers",
+      "license": "MIT"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "supraise-send-gift",
+  "displayName": "Send a Gift",
+  "version": "1.0.0",
+  "description": "Send a real gift from Amazon, Walmart, Target and more to anyone's address: pick it in chat, pay on Supraise, Supraise orders it.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "send a gift",
+    "send gifts",
+    "gift delivery",
+    "ship a gift",
+    "gift to address",
+    "surprise someone",
+    "care package",
+    "thank you gift"
+  ]
+}

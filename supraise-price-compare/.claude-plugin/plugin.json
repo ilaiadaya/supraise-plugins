@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "supraise-price-compare",
+  "displayName": "Price Compare",
+  "version": "1.0.0",
+  "description": "Compare a product's price across Amazon, Walmart, Target, Best Buy and more in one search, and see which seller is cheapest.",
+  "author": {
+    "name": "Supraise",
+    "url": "https://supraise.com"
+  },
+  "homepage": "https://supraise.com/developers",
+  "repository": "https://github.com/ilaiadaya/supraise-plugins",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://supraise.com/legal/privacy",
+  "termsOfServiceUrl": "https://supraise.com/legal/terms",
+  "supportUrl": "https://supraise.com/support",
+  "documentationUrl": "https://supraise.com/developers",
+  "keywords": [
+    "price compare",
+    "price comparison",
+    "compare prices",
+    "cheapest",
+    "best price",
+    "deal finder",
+    "price check",
+    "where to buy"
+  ]
+}
